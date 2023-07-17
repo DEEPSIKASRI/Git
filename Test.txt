@@ -1,1 +1,2 @@
 This is the sample case
+The pull command is to pull the request
